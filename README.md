@@ -1,4 +1,9 @@
 # blinmaker-publicverion
-this is a public verion of blin maker from this youtuber on this video https://www.youtube.com/watch?v=FMIZEfjYmtM&amp;t=634s credit to him
+## This has already been made by a youtuber called [Life Of Boris](https://www.youtube.com/watch?v=FMIZEfjYmtM)
 
-compile or run the .jar
+### How to run
+
+There are two options
+- Compile Directly from the blinmaker-publicverion folder
+ - I recommend having Java SDK and Java installed on your computer to run this.
+- Run from the jar file
