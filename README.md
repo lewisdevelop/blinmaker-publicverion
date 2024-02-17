@@ -5,5 +5,5 @@
 
 There are two options
 - Compile Directly from the blinmaker-publicverion folder
- - I recommend having Java SDK and Java installed on your computer to run this.
+  I recommend having Java SDK and Java installed on your computer to run this.
 - Run from the jar file
